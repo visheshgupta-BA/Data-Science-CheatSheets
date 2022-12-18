@@ -1,4 +1,4 @@
-<p align = 'center'><b>Data-Science-CheatSheets</b></p>
+# <p align = 'center'>Data Science CheatSheets</p>
 
 This Repository contains a list of all the Data Science Cheatsheets that you might help you with interview preparation, exams or anything else.
 
@@ -19,4 +19,4 @@ This Repository contains a list of all the Data Science Cheatsheets that you mig
 
 Feel free to comment, suggest any updates or potential improvements.
 
-Author: <a href = "https://www.linkedin.com/in/adityaagarwal68/">Aditya Agarwal</a>
+Author Contact: <a href = "https://www.linkedin.com/in/ba-visheshgupta/">Vishesh Gupta</a>
