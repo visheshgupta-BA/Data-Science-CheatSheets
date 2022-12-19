@@ -23,8 +23,6 @@ Author Contact: <a href = "https://www.linkedin.com/in/ba-visheshgupta/">Vishesh
 
 ## Shortcut for Contents
 
-## Table of contents
-
 - [Data Extraction](#data-extraction)
   - [SQL](#sql)
   - [Python Regular expressions](#python-regular-expressions)
